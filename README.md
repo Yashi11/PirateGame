@@ -3,12 +3,19 @@
 ![Pirate Game Screenshot](https://github.com/Yashi11/PirateGame/assets/73705143/e41cb762-31f4-4243-b1de-3c5b7beb9033)
 
 Welcome to Pirate Game, a thrilling platformer game built entirely in Java, with no external libraries! In this exciting adventure, you'll take on the role of a brave pirate, navigating through five challenging levels filled with enemies, obstacles, and hidden treasures.
+
+```diff
+! Find the code in `master` branch
+```
 ## ScreenShots
 ![image](https://github.com/Yashi11/PirateGame/assets/73705143/84d1b0f1-9e34-44f7-a29b-4904c3e569e8)
 ![image](https://github.com/Yashi11/PirateGame/assets/73705143/44d84690-b0a2-4104-8999-55403a31f21f)
 ![image](https://github.com/Yashi11/PirateGame/assets/73705143/650fc24d-d604-47e8-a6b1-2a8a71055a6b)
 ![image](https://github.com/Yashi11/PirateGame/assets/73705143/9269099f-988f-4529-b0b7-394b901d0bac)
 ![image](https://github.com/Yashi11/PirateGame/assets/73705143/0a360d6e-2c9e-4055-9c2b-c856d91b5567)
+
+## TechStack
+<img src="https://github.com/Yashi11/PirateGame/assets/73705143/d8d7c7a7-b1a3-4922-8f83-5ec42cc8139e" width="200" height="100">
 
 
 
